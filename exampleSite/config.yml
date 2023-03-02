@@ -73,7 +73,7 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
+    heroTitle: DIGITAL MARKETING
     heroDescription: การตลาด สายเทา สังคม แห่งการแบ่งปัน
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
