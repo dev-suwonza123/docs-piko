@@ -82,9 +82,9 @@ params:
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
-    blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    blogTitle: โพสต์ ล่าสุด
+    blogDescription: โพสต์ล่าสุดของฉัน
+    seeMoreText: เยี่ยมชมโพสทั้งหมด
     # About Section    
     disableAboutSection: false
     aboutTitle: About
