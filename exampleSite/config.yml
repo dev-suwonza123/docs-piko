@@ -75,7 +75,7 @@ params:
     heroUpperTitle: 
     heroTitle: DIGITAL MARKETING
     heroDescription: การตลาด สายเทา สังคม แห่งการแบ่งปัน
-    heroCTAPrimaryText: Blog
+    heroCTAPrimaryText: บล็อค
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
