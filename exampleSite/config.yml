@@ -77,7 +77,7 @@ params:
     heroDescription: การตลาด สายเทา สังคม แห่งการแบ่งปัน
     heroCTAPrimaryText: บล็อค
     heroCTAPrimaryUrl: "/blog/"
-    heroCTASecondaryText: Contact Me
+    heroCTASecondaryText: จ้างงานฉัน
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
