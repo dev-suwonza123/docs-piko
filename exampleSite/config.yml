@@ -87,8 +87,8 @@ params:
     seeMoreText: เยี่ยมชมโพสทั้งหมด
     # About Section    
     disableAboutSection: false
-    aboutTitle: About
-    aboutDescription: Just something about me
+    aboutTitle: เกี่ยวกับฉัน
+    aboutDescription: ผลงานของฉัน
     aboutImgUrl: "/uploads/self.webp"
     aboutContent: Hi guys. This is where you put something about yourself.
     # Portfolio Section
