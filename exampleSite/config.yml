@@ -1,5 +1,5 @@
 ---
-baseURL: https://docs-piko.netlify.app/
+baseURL: https://digisent8.netlify.app/
 languageCode: en-us
 title: การตลาดมาสเตอร์ - การตลาดสายเทา
 theme: piko
@@ -146,7 +146,7 @@ menus:
   - name: Github
     title: 
     pre: github
-    url: https://github.com/heksagonnet/piko
+    url: https://github.com/dev-suwonza123/docs-piko
     weight: "50"
   search: # Search page's quick links
   - name: Categories
