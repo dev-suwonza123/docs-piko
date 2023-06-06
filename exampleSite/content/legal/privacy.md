@@ -1,82 +1,82 @@
 ---
-title: Privacy Policy
+title: นโยบายความเป็นส่วนตัว
 date: 2021-01-21T23:22:20+08:00
 layout: legal # is necessary
 searchHidden: true
 url: /legal/privacy
-description: This is the privacy policy page for Website Name (Website.com)
+description: นี่คือหน้านโยบายความเป็นส่วนตัวสำหรับเว็บไซต์ (onetrustme.com)
 ---
-## Privacy Policy for Company Name
-At Website Name, accessible at Website.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Website Name and how we use it.
+## นโยบายความเป็นส่วนตัวสำหรับ onetrustme
+ที่ onetrustme เข้าถึงได้ที่ onetrustme.com หนึ่งในความสำคัญหลักของเราคือความเป็นส่วนตัวของผู้เยี่ยมชม เอกสารนโยบายความเป็นส่วนตัวนี้มีประเภทของข้อมูลที่รวบรวมและบันทึกโดยเว็บไซต์onetrustmeและวิธีที่เราใช้.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [email protected]
+หากคุณมีคำถามเพิ่มเติมหรือต้องการข้อมูลเพิ่มเติมเกี่ยวกับนโยบายความเป็นส่วนตัวของเรา โปรดอย่าลังเลที่จะติดต่อเราทางอีเมลที่  [suwonza123.io@gmail.com]
 
-This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Website Name. This policy is not applicable to any information collected offline or via channels other than this website.
+นโยบายความเป็นส่วนตัวนี้ใช้กับกิจกรรมออนไลน์ของเราเท่านั้น และใช้ได้กับผู้เยี่ยมชมเว็บไซต์ของเราเกี่ยวกับข้อมูลที่พวกเขาแบ่งปันและ/หรือรวบรวมใน การตลาดสายเทา - สังคมแห่งการแบ่งปัน นโยบายนี้ไม่สามารถใช้ได้กับข้อมูลใด ๆ ที่รวบรวมแบบออฟไลน์หรือผ่านช่องทางอื่นนอกเหนือจากเว็บไซต์นี้.
 
-## Consent
+## ยินยอม
 
-By using our website, you hereby consent to our Privacy Policy and agree to its terms.
+การใช้เว็บไซต์ของเราแสดงว่าคุณยินยอมต่อนโยบายความเป็นส่วนตัวของเราและยอมรับข้อกำหนด.
 
-## Information we collect
+## ข้อมูลที่เรารวบรวม
 
-The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+ข้อมูลส่วนบุคคลที่คุณถูกขอให้ระบุและเหตุผลที่คุณถูกขอให้ระบุนั้น จะแจ้งให้คุณทราบอย่างชัดเจน ณ จุดที่เราขอให้คุณระบุข้อมูลส่วนบุคคลของคุณ.
 
-If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
+หากคุณติดต่อเราโดยตรง เราอาจได้รับข้อมูลเพิ่มเติมเกี่ยวกับคุณ เช่น ชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ เนื้อหาของข้อความและ/หรือไฟล์แนบที่คุณอาจส่งถึงเรา และข้อมูลอื่น ๆ ที่คุณสามารถเลือกให้.
 
-When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
+เมื่อคุณลงทะเบียนบัญชี เราอาจขอข้อมูลติดต่อของคุณ รวมถึงรายการต่างๆ เช่น ชื่อ ชื่อบริษัท ที่อยู่ ที่อยู่อีเมล และหมายเลขโทรศัพท์.
 
-## How we use your information
+## เราใช้ข้อมูลของคุณอย่างไร
 
-We use the information we collect in various ways, including to:
+เราใช้ข้อมูลที่เราเก็บรวบรวมในรูปแบบต่างๆ รวมถึงเพื่อ:
 
-- Provide, operate, and maintain our website
-- Improve, personalize, and expand our website
-- Understand and analyze how you use our website
-- Develop new products, services, features, and functionality
-- Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
-- Send you emails
-- Find and prevent fraud
+- จัดหา ดำเนินการ และบำรุงรักษาเว็บไซต์ของเรา
+- ปรับปรุง ปรับแต่ง และขยายเว็บไซต์ของเรา
+- ทำความเข้าใจและวิเคราะห์ว่าคุณใช้เว็บไซต์ของเราอย่างไร
+- พัฒนาผลิตภัณฑ์ บริการ คุณลักษณะ และฟังก์ชันใหม่
+- สื่อสารกับคุณโดยตรงหรือผ่านหนึ่งในพันธมิตรของเรา รวมถึงการบริการลูกค้า เพื่อให้การอัปเดตและข้อมูลอื่น ๆ ที่เกี่ยวข้องกับเว็บไซต์แก่คุณ และเพื่อวัตถุประสงค์ทางการตลาดและการส่งเสริมการขาย
+- ส่งอีเมลถึงคุณ
+- ค้นหาและป้องกันการฉ้อโกง
 
-## Log Files
+## ไฟล์บันทึก
 
-Website Name follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+เว็บไซต์นี้เป็นไปตามขั้นตอนมาตรฐานของการใช้ไฟล์บันทึก ไฟล์เหล่านี้บันทึกผู้เยี่ยมชมเมื่อพวกเขาเยี่ยมชมเว็บไซต์ บริษัทโฮสติ้งทั้งหมดทำเช่นนี้และเป็นส่วนหนึ่งของการวิเคราะห์บริการโฮสติ้ง ข้อมูลที่รวบรวมโดยไฟล์บันทึกประกอบด้วยที่อยู่อินเทอร์เน็ตโปรโตคอล (IP) ประเภทของเบราว์เซอร์ ผู้ให้บริการอินเทอร์เน็ต (ISP) วันที่และเวลาประทับ หน้าที่อ้างอิง/ออก และจำนวนการคลิกที่เป็นไปได้ สิ่งเหล่านี้ไม่ได้เชื่อมโยงกับข้อมูลใด ๆ ที่สามารถระบุตัวบุคคลได้ วัตถุประสงค์ของข้อมูลคือการวิเคราะห์แนวโน้ม การจัดการไซต์ ติดตามความเคลื่อนไหวของผู้ใช้บนเว็บไซต์ และรวบรวมข้อมูลประชากร.
 
-## Cookies and Web Beacons
+## คุกกี้และเว็บบีคอน
 
-Like any other website, Website Name uses ‘cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+เช่นเดียวกับเว็บไซต์อื่นๆ เว็บไซต์นี้ 'คุกกี้' คุกกี้เหล่านี้ใช้เพื่อเก็บข้อมูลรวมถึงการตั้งค่าของผู้เยี่ยมชม และหน้าบนเว็บไซต์ที่ผู้เยี่ยมชมเข้าถึงหรือเยี่ยมชม ข้อมูลนี้ใช้เพื่อเพิ่มประสิทธิภาพประสบการณ์ของผู้ใช้โดยปรับแต่งเนื้อหาหน้าเว็บของเราตามประเภทเบราว์เซอร์ของผู้เข้าชมและ/หรือข้อมูลอื่นๆ.
 
-## DoubleClick DART Cookie
-Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – https://policies.google.com/technologies/ads.
+## คุกกี้ DoubleClick DART
 
-Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
+Google เป็นหนึ่งในผู้ให้บริการบุคคลที่สามบนไซต์ของเรา นอกจากนี้ยังใช้คุกกี้ที่เรียกว่าคุกกี้ DART เพื่อให้บริการโฆษณาแก่ผู้เข้าชมไซต์ของเราตามการเยี่ยมชมwww.website.comและไซต์อื่นๆ บนอินเทอร์เน็ต อย่างไรก็ตาม ผู้เข้าชมอาจเลือกที่จะปฏิเสธการใช้คุกกี้ DART โดยไปที่โฆษณา Google และนโยบายความเป็นส่วนตัวของเครือข่ายเนื้อหาที่ URL ต่อไปนี้– https://policies.google.com/technologies/ads.
+
+ผู้โฆษณาบางรายบนไซต์ของเราอาจใช้คุกกี้และเว็บบีคอน พันธมิตรโฆษณาของเรามีรายชื่ออยู่ด้านล่าง พันธมิตรโฆษณาของเราแต่ละรายมีนโยบายความเป็นส่วนตัวของตนเองสำหรับนโยบายเกี่ยวกับข้อมูลผู้ใช้ เพื่อการเข้าถึงที่ง่ายขึ้น เราได้เชื่อมโยงไปยังนโยบายความเป็นส่วนตัวด้านล่าง.
 
 - Google https://policies.google.com/technologies/ads
 
-## Advertising Partners Privacy Policies
+## นโยบายความเป็นส่วนตัวของพันธมิตรโฆษณา
 
-You may consult this list to find the Privacy Policy for each of the advertising partners of Website Name.
+คุณอาจดูรายการนี้เพื่อค้นหานโยบายความเป็นส่วนตัวสำหรับพันธมิตรโฆษณาแต่ละรายของชื่อเว็บไซต์.
 
-Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Website Name, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+เซิร์ฟเวอร์โฆษณาหรือเครือข่ายโฆษณาของบุคคลที่สามใช้เทคโนโลยี เช่น คุกกี้ JavaScript หรือเว็บบีคอนที่ใช้ในโฆษณาของตน และลิงก์ที่ปรากฏบนชื่อเว็บไซต์ ซึ่งจะถูกส่งตรงไปยังเบราว์เซอร์ของผู้ใช้ พวกเขาจะได้รับที่อยู่ IP ของคุณโดยอัตโนมัติเมื่อสิ่งนี้เกิดขึ้น เทคโนโลยีเหล่านี้ใช้เพื่อวัดประสิทธิภาพของแคมเปญโฆษณาและ/หรือเพื่อปรับแต่งเนื้อหาโฆษณาที่คุณเห็นบนเว็บไซต์ที่คุณเยี่ยมชม.
 
-Note that Website Name has no access to or control over these cookies that are used by third-party advertisers.
+โปรดทราบว่าเว็บไซต์นี้ไม่สามารถเข้าถึงหรือควบคุมคุกกี้เหล่านี้ซึ่งใช้โดยผู้โฆษณาบุคคลที่สาม.
 
-## Third-Party Privacy Policies
+## นโยบายความเป็นส่วนตัวของบุคคลที่สาม
 
-Website Name's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+นโยบายความเป็นส่วนตัวของชื่อเว็บไซต์ไม่นำไปใช้กับผู้โฆษณาหรือเว็บไซต์อื่น ดังนั้นเราจึงแนะนำให้คุณอ่านนโยบายความเป็นส่วนตัวที่เกี่ยวข้องของเซิร์ฟเวอร์โฆษณาบุคคลที่สามเหล่านี้สำหรับข้อมูลรายละเอียดเพิ่มเติม อาจรวมถึงแนวทางปฏิบัติและคำแนะนำเกี่ยวกับวิธีการเลือกไม่ใช้ตัวเลือกบางอย่าง คุณสามารถดูรายการนโยบายความเป็นส่วนตัวทั้งหมดและลิงก์ได้ที่นี่: ลิงก์นโยบายความเป็นส่วนตัว.
 
-You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+คุณสามารถเลือกที่จะปิดใช้งานคุกกี้ผ่านตัวเลือกเบราว์เซอร์ของคุณ หากต้องการทราบข้อมูลรายละเอียดเพิ่มเติมเกี่ยวกับการจัดการคุกกี้กับเว็บเบราว์เซอร์เฉพาะ สามารถดูได้ที่เว็บไซต์ของเบราว์เซอร์นั้นๆ คุกกี้คืออะไร?
 
-## CCPA Privacy Policy (Do Not Sell My Personal Information)
+## นโยบายความเป็นส่วนตัว CCPA (อย่าขายข้อมูลส่วนบุคคลของฉัน)
 
-Under the CCPA, among other rights, California consumers have the right to:
+ภายใต้ CCPA ท่ามกลางสิทธิอื่นๆ ผู้บริโภคในแคลิฟอร์เนียมีสิทธิ์ที่จะ:
 
-Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+ขอให้ธุรกิจที่รวบรวมข้อมูลส่วนบุคคลของผู้บริโภคเปิดเผยหมวดหมู่และชิ้นส่วนเฉพาะของข้อมูลส่วนบุคคลที่ธุรกิจได้รวบรวมเกี่ยวกับผู้บริโภค.
 
-Request that a business delete any personal data about the consumer that a business has collected.
+ขอให้ธุรกิจที่ขายข้อมูลส่วนบุคคลของผู้บริโภคไม่ขายข้อมูลส่วนบุคคลของผู้บริโภค.
 
-Request that a business that sells a consumer's personal data, not sell the consumer's personal data.
+หากคุณส่งคำขอ เรามีเวลาหนึ่งเดือนในการตอบกลับคุณ หากคุณต้องการใช้สิทธิใดๆ เหล่านี้ โปรดติดต่อเรา.
 
-If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
 
 ## GDPR Privacy Policy (Data Protection Rights)
 
