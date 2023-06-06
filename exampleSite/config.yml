@@ -38,13 +38,13 @@ params:
       SiteVerificationTag: # Bing Site Verification
   env: production
   author: Suwon Sitijan
-  description: Your website description
+  description: การตลาดสายเทา seo สายเทา
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _การตลาด มาสเตอร์_
-    text: Welcome to Piko
+    title: _การตลาด สายเทา_
+    text: ยินดีต้อนรับ สู่ การตลาดสายเทา
     icon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
@@ -54,10 +54,9 @@ params:
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
-  CookieNotice: We use cookies to improve your experience on our site and to show
-    you relevant advertising.
+  CookieNotice: เราใช้คุกกี้เพื่อปรับปรุงประสบการณ์ของคุณบนไซต์ของเราและเพื่อแสดงโฆษณาที่เกี่ยวข้อง.
   CookieLink: /legal/privacy/#cookies-and-web-beacons
-  CookieButton: Cookies Policy
+  CookieButton: นโยบายคุ๊กกี้
   disableAnchoredHeadings: false
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
